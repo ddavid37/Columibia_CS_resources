@@ -1,4 +1,4 @@
-# Columbia Undergraduate (Barnard, CC, GS) Computer Science Major
+# Columbia Undergraduate (Barnard, CC, GS) Computer Science Major 
  
 Courses I'm taking and willing to take to fullfil my requirments to CS major at Columbia University starting from fall24 semester.
 This repo will also share usefull resources I used and willing to use in this classes. 
