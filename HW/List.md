@@ -1,9 +1,9 @@
 # Homeworks
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| # | Week | H.W. | Solution |
 |----------|----------|----------|----------|
-| Row 1    | Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    | Row 2    |
+| Row 1    | Row 1    |[HW2](HW/HW_2.md) | Row 1    |
+| Row 2    | Row 2    | [HW2](HW/HW_2.md) | Row 2    |
 | Row 3    | Row 3    | Row 3    | Row 3    |
 | Row 4    | Row 4    | Row 4    | Row 4    |
 | Row 5    | Row 5    | Row 5    | Row 5    |
