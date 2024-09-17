@@ -15,7 +15,7 @@ Students should be familiar with the basics of imperative, sequential programmin
 
 Instructors
 Martha Barker (mbarker@cs.columbia.edu)
-Martha Kim (martha@cs.columbia.edu)
+Martha Kim (martha@cs.columbia.edu) 
 Emma Li (eql2002@columbia.edu), Head TA
 Madeline Skeel (mgs2189@columbia.edu), Head TA
 The full TA staff will be announced during the first week of the semester.
