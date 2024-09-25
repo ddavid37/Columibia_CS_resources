@@ -6,7 +6,7 @@ This repo will also share usefull resources I used and willing to use in this cl
 Available CS courses are listed [here](http://www.columbia.edu/cu/bulletin/uwb/) along with the textbooks used by some of them. Generally, if you google a course, professor, and "columbia", you'll also find a bunch of public resources.  
 
 See [guide](https://github.com/mdzhang/columbia-cs-resources/blob/master/Guide.xls) to the CS major. They switched around the requirements in Spring 2024 and new ones are posted [here](https://www.cs.columbia.edu/wp-content/uploads/2023/11/BA.pdf).
-
+ 
 See [resources](https://github.com/mdzhang/columbia-cs-resources/tree/master/resources) for class specific resources that may not be online anywhere.
 
 If you're transfered student, [this](https://mail.google.com/mail/u/0/#search/adam+/QgrcJHsHkKlMmLGSTWqVgrbNdTpTnwdcTJl?projector=1&messagePartId=0.1) pdf will be highly usefull for you.
