@@ -10,7 +10,7 @@ See [guide](https://github.com/mdzhang/columbia-cs-resources/blob/master/Guide.x
 See [resources](https://github.com/mdzhang/columbia-cs-resources/tree/master/resources) for class specific resources that may not be online anywhere.
 
 If you're transfered student, [this](https://mail.google.com/mail/u/0/#search/adam+/QgrcJHsHkKlMmLGSTWqVgrbNdTpTnwdcTJl?projector=1&messagePartId=0.1) pdf will be highly usefull for you.
-
+ 
 ## List of Courses  
 
 |term and where| Type  | Course Code | Course Name | Professor | Texts | Additional Resources |
