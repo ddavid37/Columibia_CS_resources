@@ -12,7 +12,7 @@ See [resources](https://github.com/mdzhang/columbia-cs-resources/tree/master/res
 If you're transfered student, [this](https://mail.google.com/mail/u/0/#search/adam+/QgrcJHsHkKlMmLGSTWqVgrbNdTpTnwdcTJl?projector=1&messagePartId=0.1) pdf will be highly usefull for you.
  
 ## List of Courses  
-
+ 
 |term and where| Type  | Course Code | Course Name | Professor | Texts | Additional Resources |
 |-----|-------| ------------|-------------|-----------|-------|----------------------|
 |Fall23 MC| Core  | COMS W1004  | Intro to CS and Programming in Java | Cannon | <ul><li>Big Java</li><li>Invitation to Computer Science</li> | |
