@@ -15,8 +15,8 @@ If you're transfered student, [this](https://mail.google.com/mail/u/0/#search/ad
  
 |term and where| Type  | Course Code | Course Name | Professor | Texts | Additional Resources |
 |-----|-------| ------------|-------------|-----------|-------|----------------------|
-|Fall23 MC| Core  | COMS W1004  | Intro to CS and Programming in Java | Cannon | <ul><li>Big Java</li><li>Invitation to Computer Science</li> | |
-|| Core  | COMS W1007  | Object Oriented Programming in Java | Kender | Java Software Solutions, Lewis & Loftus | |
+|Fall23 MC| CS Core  | COMS W1004  | Intro to CS and Programming in Java | Cannon | <ul><li>Big Java</li><li>Invitation to Computer Science</li> | |
+|| CS Core  | COMS W1007  | Object Oriented Programming in Java | Kender | Java Software Solutions, Lewis & Loftus | |
 |Spring24 MC| Core  | COMS W3134  | Data Structures | Pasik | None | [lecture notes](https://github.com/mdzhang/columbia-cs-resources/blob/master/resources/cs3134/Lectures) |
 |Fall24 Columbia| Core  | COMS W3157  | Advanced Programming | Jae | The C Programming Language |[class_page](http://www.cs.columbia.edu/~jae/3157-LAST) [github](https://cs3157.github.io/www/2024-9/) [repo](https://github.com/cs3157) [VIM keyboard shortcuts](https://scaron.info/blog/vim-keyboard-shortcuts.html) [Labs](https://github.com/ddavid37/Columibia_CS_resources/tree/main/COMS%20W3157%20-%20Advanced%20Programming/Labs)| 
 || Core  | COMS W3203  | Combinatorics/Graph Theory | Strickland | Discrete Mathematics and Its Applications Seventh Edition | None |
