@@ -10,6 +10,8 @@ You can find [class-specific resources](https://github.com/mdzhang/columbia-cs-r
 
 If you are a transfer student, this [PDF](https://mail.google.com/mail/u/0/#search/adam+/QgrcJHsHkKlMmLGSTWqVgrbNdTpTnwdcTJl?projector=1&messagePartId=0.1) will be highly useful.
 
+As a CS major, you'll be required to take several Math classes to sustain your mathematical thinking and foundation.
+
 ## List of Courses
 
 | Term and Location | Type  | Course Code | Course Name | Professor | Texts | Additional Resources |
