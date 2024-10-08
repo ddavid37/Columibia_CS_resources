@@ -7,7 +7,7 @@ Available CS courses are listed [here](http://www.columbia.edu/cu/bulletin/uwb/)
 For guidance on the CS major, refer to this [guide](https://github.com/mdzhang/columbia-cs-resources/blob/master/Guide.xls). Note that the requirements changed in Spring 2024, and the updated ones are posted [here](https://www.cs.columbia.edu/wp-content/uploads/2023/11/BA.pdf).
 
 You can find [class-specific resources](https://github.com/mdzhang/columbia-cs-resources/tree/master/resources) that may not be available online.
-
+ 
 If you are a transfer student, this [PDF](https://mail.google.com/mail/u/0/#search/adam+/QgrcJHsHkKlMmLGSTWqVgrbNdTpTnwdcTJl?projector=1&messagePartId=0.1) will be highly useful.
 
 As a CS major, you will be required to take several math classes to strengthen your mathematical thinking and foundation. The Math classes and general information is elaborated in [here](https://github.com/ddavid37/Math-Requirmetns).
